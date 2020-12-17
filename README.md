@@ -7,7 +7,7 @@ Retrieveing information about temperature trends before opening the surf shop. S
 ## Resources 
 
 * Data Source: hawaii.sqlite
-* Tools Used: SQLite, SQLAlchemy 
+* Tools Used: SQLite 
 * Software: Visual Studio Code / Jupyter Notebook
 
 ## Results
