@@ -14,5 +14,8 @@ Retrieveing information about temperature trends before opening the surf shop. S
 
 The following table summerizes the month of June's temperature statistics:
 
+![2](https://user-images.githubusercontent.com/73450637/102510449-a20b9d00-4055-11eb-8c45-f1418d224e30.png)
 
 The following table summerizes the month of December's temperature statistics:
+
+
