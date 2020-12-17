@@ -20,6 +20,13 @@ The following table summerizes the month of December's temperature statistics:
 
 ![3](https://user-images.githubusercontent.com/73450637/102510502-b5b70380-4055-11eb-9a73-4907eee40871.png)
 
-1. 
+On a birds view view, the similarities between values of both months are astonishing even though one comes in middle of the year and and the other at the end.
 
+`
+1. Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and nothing much to take between both months if considered an average value.
 
+`
+2. The maximum temperature of June is 85 and December is 83 (December) which is also remarkable similar.
+
+`
+3. The minimum temperature of December June show the greatest variance, and reflects a much lower temperature level in December that may not be favourable to ice cream or surfing. 
